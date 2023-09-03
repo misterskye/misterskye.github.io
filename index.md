@@ -1,3 +1,3 @@
 # Skye's Earth Data Analytics Portfolio
-![Debris flows ](img/slides.jpg)
+![Debris flows ](img/Slides.jpg)
 
