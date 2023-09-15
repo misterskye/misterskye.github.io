@@ -1,4 +1,4 @@
-## My Portfolio Page for Earth Data Analytics
+## My Earth Data Analytics Portfolio Page
 ---------------------------------------------
 ### Project #1
 * [Plot of mean annual temperature at Anchorage, AK](https://misterskye.github.io/notebooks/ncei_temp_anchorage.html)
