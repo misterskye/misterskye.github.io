@@ -1,3 +1,12 @@
 ## My Portfolio Page for Earth Data Analytics
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anchorage_on_an_April_evening.jpg/760px-Mapcarta.jpg"
-<img src="/img/Slides.jpg" alt="Debris flows " width=500>
+---------------------------------------------
+### Project #1
+* [Plot of mean annual temperature at Anchorage, AK](https://misterskye.github.io/notebooks/ncei_temp_anchorage.html)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Anchorage%2C_Alaska.JPG" width=300>
+
+
+
+
+
+
+
