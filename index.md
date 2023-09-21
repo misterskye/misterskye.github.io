@@ -10,7 +10,7 @@
 ### Project #2
 * [Analyzing the annual maximum streamflow of the San Gregorio Creek reveals a notable correlation between heavy rain years and increased landslides in the region](https://misterskye.github.io/notebooks/SanGregorioCreek_time-series.html)
 
-  
+<img src="/img/slides.jpg" alt="Bay Area landslides" width=200>
 
 
 
