@@ -12,7 +12,15 @@
 
   <img src="img/Slides.jpg" alt="Bay Area landslides" width=400>
 
+### Project #3
 
+
+### Project #4
+* [Looking At The Fire Density and Burn Ratio Values for the State of California, a 20-Year Perspective](https://misterskye.github.io/notebooks/vector_fire_analysis.html).
+
+  <img src="https://noahbergerphoto.com/album/5ae3ds/photo/68725461" width=400>
+  
+  <sup>Noah Berger  https://noahbergerphoto.com/albums.</sup>
 
 
 
