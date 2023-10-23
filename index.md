@@ -18,9 +18,9 @@
 ### Project #4
 * [Looking At The Fire Density and Burn Ratio Values for the State of California, a 20-Year Perspective](https://misterskye.github.io/notebooks/vector_fire_analysis.html).
 
-  <img src="https://noahbergerphoto.com/album/5ae3ds/photo/68725461" width=400>
+  <img src="https://www.aginfo.net/Assets/ReportImages/report_63c9cf93596fc331187051_1920_1080.jpg" width=400>
   
-  <sup>Noah Berger  https://noahbergerphoto.com/albums.</sup>
+  <sup>2023 AgInfo.net, ['USDA Investing Funds to Reduce Wildfire Risk'](https://www.aginfo.net/report/55257/California-Ag-Today/USDA-Investing-Funds-to-Reduce-Wildfire-Risk)</sup>
 
 
 
