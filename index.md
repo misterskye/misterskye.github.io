@@ -13,7 +13,11 @@
   <img src="img/Slides.jpg" alt="Bay Area landslides" width=400>
 
 ### Project #3
+* [The 2021 Caldor Fire, a destructive wildfire in Northern California, significantly impacted the region's vegetation](https://misterskye.github.io/notebooks/NDVI_Analysis.html)
 
+  <img src="img/Caldor-Fire-JEdelson.jpg" width=400>
+
+  <sup>Josh Edelson/AFP via Getty Images<sup>
 
 ### Project #4
 * [Looking At The Fire Density and Burn Ratio Values for the State of California, a 30-Year Perspective](https://misterskye.github.io/notebooks/vector_fire_analysis.html).
